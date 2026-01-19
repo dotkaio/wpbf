@@ -1,5 +1,5 @@
 <h1 align="center">
-  WP Hunter
+  WPBF (Word Press Brute Force)
   <br>
 </h1>
 
@@ -55,14 +55,8 @@ chmod -R 777 attack.sh
 ┌──(habib㉿kali)-[~/Desktop/wp hunter]
 └─$ ./attack.sh 
 
- __          _______    _    _             _            
- \ \        / /  __ \  | |  | |           | |           
-  \ \  /\  / /| |__) | | |__| |_   _ _ __ | |_ ___ _ __ 
-   \ \/  \/ / |  ___/  |  __  | | | | '_ \| __/ _ \ '__|
-    \  /\  /  | |      | |  | | |_| | | | | ||  __/ |   
-     \/  \/   |_|      |_|  |_|\__,_|_| |_|\__\___|_|   
-                                                        
-                              @thenurhabib 
+   
+                              @kaio
 
 Arguments:
 	--url		wordpress url
@@ -82,11 +76,9 @@ Password Bruteforce:
 
 ### Author
 ```yaml
-Name       : Md. Nur habib
-Medium     : thenurhabib.medium.com
-Twitter    : https://twitter.com/thenurhab1b
-HackerRank : https://www.hackerrank.com/thenurhabib
+Name       : kaio ferraz
+website    : https://www.kaioferraz.com/
 
 ```
 
-##### Thank You.
+🙂‍↔️
